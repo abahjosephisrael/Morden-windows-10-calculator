@@ -1,0 +1,10 @@
+C:\Users\ABAH JOSEPH ISRAEL\Documents\Visual Studio 2015\Projects\CODE360\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\ABAH JOSEPH ISRAEL\Documents\Visual Studio 2015\Projects\CODE360\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\ABAH JOSEPH ISRAEL\Documents\Visual Studio 2015\Projects\CODE360\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\ABAH JOSEPH ISRAEL\Documents\Visual Studio 2015\Projects\CODE360\Simple Calculator\obj\Debug\Simple Calculator.csprojResolveAssemblyReference.cache
+C:\Users\ABAH JOSEPH ISRAEL\Documents\Visual Studio 2015\Projects\CODE360\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\ABAH JOSEPH ISRAEL\Documents\Visual Studio 2015\Projects\CODE360\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.Cache
+C:\Users\ABAH JOSEPH ISRAEL\Documents\Visual Studio 2015\Projects\CODE360\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\ABAH JOSEPH ISRAEL\Documents\Visual Studio 2015\Projects\CODE360\Simple Calculator\obj\Debug\Simple Calculator.pdb
+C:\Users\ABAH JOSEPH ISRAEL\Documents\Visual Studio 2015\Projects\CODE360\Simple Calculator\bin\Debug\MetroFramework.dll
+C:\Users\ABAH JOSEPH ISRAEL\Documents\Visual Studio 2015\Projects\CODE360\Simple Calculator\obj\Debug\Simple_Calculator.frmCalculator.resources
